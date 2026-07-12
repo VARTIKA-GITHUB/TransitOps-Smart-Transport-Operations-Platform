@@ -1,7 +1,7 @@
 
 # 🚛 TransitOps – Smart Transport Operations Platform
 
-> **A centralized fleet and transport management platform built to streamline vehicle operations, driver management, dispatching, maintenance tracking, fuel monitoring, and business analytics.**
+> A centralized fleet and transport management platform built to streamline vehicle operations, driver management, dispatching, maintenance tracking, fuel monitoring, and business analytics.**
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB)
@@ -164,7 +164,6 @@ Interactive analytics dashboard showing:
 Supports:
 
 * CSV Export
-* PDF Export *(Optional)*
 
 ---
 
@@ -308,19 +307,6 @@ TransitOps/
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here:
-
-* Login Page
-* Dashboard
-* Vehicle Management
-* Driver Management
-* Trip Management
-* Analytics Dashboard
-* Maintenance Module
-
----
 
 # 🔮 Future Improvements
 
@@ -343,7 +329,10 @@ TransitOps transforms traditional fleet management into a smart, data-driven pla
 
 # 👨‍💻 Team
 
-**Hackathon Project**
+@VARTIKA-GITHUB
+@heyimtanya
+@Vartika-Mishra13
+@Tanmay390
 
 Developed with ❤️ to simplify transport operations through modern web technologies.
 
