@@ -4,3 +4,9 @@ dist/
 .env.local
 .vscode/
 *.log
+node_modules/
+dist/
+.env
+.env.local
+.vscode/
+*.log
